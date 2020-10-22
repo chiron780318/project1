@@ -25,6 +25,6 @@ namespace prjProject1.Models
             throw new UnintentionalCodeFirstException();
         }
     
-        public virtual DbSet<Customers> Customers { get; set; }
+       // public virtual DbSet<Customers> Customers { get; set; }
     }
 }
