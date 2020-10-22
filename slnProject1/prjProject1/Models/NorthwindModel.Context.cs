@@ -13,10 +13,10 @@ namespace prjProject1.Models
     using System.Data.Entity;
     using System.Data.Entity.Infrastructure;
     
-    public partial class NorthwindEntities : DbContext
+    public partial class NorthwindEntities1 : DbContext
     {
-        public NorthwindEntities()
-            : base("name=NorthwindEntities")
+        public NorthwindEntities1()
+            : base("name=NorthwindEntities1")
         {
         }
     
@@ -25,6 +25,6 @@ namespace prjProject1.Models
             throw new UnintentionalCodeFirstException();
         }
     
-       // public virtual DbSet<Customers> Customers { get; set; }
+        public virtual DbSet<Customers> Customers { get; set; }
     }
 }
