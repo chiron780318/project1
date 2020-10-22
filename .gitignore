@@ -1,80 +1,262 @@
-slnProject1/.vs/slnProject1/v15/Server/sqlite3/storage.ide-shm
-slnProject1/.vs/slnProject1/v15/Server/sqlite3/storage.ide-wal
-slnProject1/prjProject1/obj/Debug/prjProject1.csproj.CoreCompileInputs.cache
-slnProject1/.vs/slnProject1/v15/.suo
-slnProject1/prjProject1/obj/Debug/prjProject1.csproj.FileListAbsolute.txt
-slnProject1/prjProject1/obj/Debug/prjProject1.csprojAssemblyReference.cache
-slnProject1/prjProject1/obj/Debug/edmxResourcesToEmbed/Models/testModel1.csdl
-slnProject1/prjProject1/obj/Debug/edmxResourcesToEmbed/Models/testModel1.msl
-slnProject1/prjProject1/obj/Debug/edmxResourcesToEmbed/Models/testModel1.ssdl
-slnProject1/prjProject1/bin/EntityFramework.SqlServer.xml
-slnProject1/prjProject1/bin/EntityFramework.xml
-slnProject1/prjProject1/bin/prjProject1.dll
-slnProject1/prjProject1/bin/prjProject1.dll.config
-slnProject1/prjProject1/bin/prjProject1.pdb
-slnProject1/prjProject1/bin/System.Web.Helpers.xml
-slnProject1/prjProject1/bin/System.Web.Mvc.xml
-slnProject1/prjProject1/bin/System.Web.Razor.xml
-slnProject1/prjProject1/bin/System.Web.Webpages.Deployment.xml
-slnProject1/prjProject1/bin/System.Web.Webpages.Razor.xml
-slnProject1/prjProject1/bin/System.Web.Webpages.xml
-slnProject1/prjProject1/bin/roslyn/csc.exe
-slnProject1/prjProject1/bin/roslyn/csc.exe.config
-slnProject1/prjProject1/bin/roslyn/csc.rsp
-slnProject1/prjProject1/bin/roslyn/csi.exe
-slnProject1/prjProject1/bin/roslyn/csi.exe.config
-slnProject1/prjProject1/bin/roslyn/csi.rsp
-slnProject1/prjProject1/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
-slnProject1/prjProject1/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
-slnProject1/prjProject1/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
-slnProject1/prjProject1/bin/roslyn/Microsoft.CodeAnalysis.dll
-slnProject1/prjProject1/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
-slnProject1/prjProject1/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
-slnProject1/prjProject1/bin/roslyn/Microsoft.CSharp.Core.targets
-slnProject1/prjProject1/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
-slnProject1/prjProject1/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
-slnProject1/prjProject1/bin/roslyn/Microsoft.Managed.Core.targets
-slnProject1/prjProject1/bin/roslyn/Microsoft.VisualBasic.Core.targets
-slnProject1/prjProject1/bin/roslyn/System.AppContext.dll
-slnProject1/prjProject1/bin/roslyn/System.Collections.Immutable.dll
-slnProject1/prjProject1/bin/roslyn/System.Console.dll
-slnProject1/prjProject1/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
-slnProject1/prjProject1/bin/roslyn/System.Diagnostics.StackTrace.dll
-slnProject1/prjProject1/bin/roslyn/System.IO.Compression.dll
-slnProject1/prjProject1/bin/roslyn/System.IO.FileSystem.dll
-slnProject1/prjProject1/bin/roslyn/System.IO.FileSystem.Primitives.dll
-slnProject1/prjProject1/bin/roslyn/System.IO.Pipes.AccessControl.dll
-slnProject1/prjProject1/bin/roslyn/System.IO.Pipes.dll
-slnProject1/prjProject1/bin/roslyn/System.Reflection.Metadata.dll
-slnProject1/prjProject1/bin/roslyn/System.Security.AccessControl.dll
-slnProject1/prjProject1/bin/roslyn/System.Security.Claims.dll
-slnProject1/prjProject1/bin/roslyn/System.Security.Cryptography.Algorithms.dll
-slnProject1/prjProject1/bin/roslyn/System.Security.Cryptography.Encoding.dll
-slnProject1/prjProject1/bin/roslyn/System.Security.Cryptography.Primitives.dll
-slnProject1/prjProject1/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
-slnProject1/prjProject1/bin/roslyn/System.Security.Principal.Windows.dll
-slnProject1/prjProject1/bin/roslyn/System.Text.Encoding.CodePages.dll
-slnProject1/prjProject1/bin/roslyn/System.ValueTuple.dll
-slnProject1/prjProject1/bin/roslyn/System.Xml.ReaderWriter.dll
-slnProject1/prjProject1/bin/roslyn/System.Xml.XmlDocument.dll
-slnProject1/prjProject1/bin/roslyn/System.Xml.XPath.dll
-slnProject1/prjProject1/bin/roslyn/System.Xml.XPath.XDocument.dll
-slnProject1/prjProject1/bin/roslyn/vbc.exe
-slnProject1/prjProject1/bin/roslyn/vbc.exe.config
-slnProject1/prjProject1/bin/roslyn/vbc.rsp
-slnProject1/prjProject1/bin/roslyn/VBCSCompiler.exe
-slnProject1/prjProject1/bin/roslyn/VBCSCompiler.exe.config
-slnProject1/prjProject1/bin/zh-Hant/EntityFramework.resources.dll
-slnProject1/prjProject1/bin/zh-Hant/System.Web.Helpers.resources.dll
-slnProject1/prjProject1/bin/zh-Hant/System.Web.Mvc.resources.dll
-slnProject1/prjProject1/bin/zh-Hant/System.Web.Razor.resources.dll
-slnProject1/prjProject1/bin/zh-Hant/System.Web.Webpages.Deployment.resources.dll
-slnProject1/prjProject1/bin/zh-Hant/System.Web.Webpages.Razor.resources.dll
-slnProject1/prjProject1/bin/zh-Hant/System.Web.Webpages.resources.dll
-slnProject1/prjProject1/obj/Debug/prjProject1.csproj.CopyComplete
-slnProject1/prjProject1/obj/Debug/prjProject1.dll
-slnProject1/prjProject1/obj/Debug/prjProject1.pdb
-slnProject1/prjProject1/obj/Debug/TempPE/Models.testModel1.Context.cs.dll
+## Ignore Visual Studio temporary files, build results, and
+## files generated by popular Visual Studio add-ons.
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files (MonoDevelop/Xamarin Studio)
+*.userprefs
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# Visual Studio 2015 cache/options directory
+.vs/
+# Uncomment if you have tasks that create the project's static files in wwwroot
+#wwwroot/
+
+# MSTest test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# NUNIT
+*.VisualState.xml
+TestResult.xml
+
+# Build Results of an ATL Project
+[Dd]ebugPS/
+[Rr]eleasePS/
+dlldata.c
+
+# DNX
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+*_i.c
+*_p.c
+*_i.h
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*.log
+*.vspscc
+*.vssscc
+.builds
+*.pidb
+*.svclog
+*.scc
+
+# Chutzpah Test files
+_Chutzpah*
+
+# Visual C++ cache files
+ipch/
+*.aps
+*.ncb
+*.opendb
+*.opensdf
+*.sdf
+*.cachefile
+*.VC.db
+*.VC.VC.opendb
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+*.sap
+
+# TFS 2012 Local Workspace
+$tf/
+
+# Guidance Automation Toolkit
+*.gpState
+
+# ReSharper is a .NET coding add-in
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# JustCode is a .NET coding add-in
+.JustCode
+
+# TeamCity is a build add-in
+_TeamCity*
+
+# DotCover is a Code Coverage Tool
+*.dotCover
+
+# NCrunch
+_NCrunch_*
+.*crunch*.local.xml
+nCrunchTemp_*
+
+# MightyMoose
+*.mm.*
+AutoTest.Net/
+
+# Web workbench (sass)
+.sass-cache/
+
+# Installshield output folder
+[Ee]xpress/
+
+# DocProject is a documentation generator add-in
+DocProject/buildhelp/
+DocProject/Help/*.HxT
+DocProject/Help/*.HxC
+DocProject/Help/*.hhc
+DocProject/Help/*.hhk
+DocProject/Help/*.hhp
+DocProject/Help/Html2
+DocProject/Help/html
+
+# Click-Once directory
+publish/
+
+# Publish Web Output
+*.[Pp]ublish.xml
+*.azurePubxml
+# TODO: Comment the next line if you want to checkin your web deploy settings
+# but database connection strings (with potential passwords) will be unencrypted
+#*.pubxml
+*.publishproj
+
+# Microsoft Azure Web App publish settings. Comment the next line if you want to
+# checkin your Azure Web App publish settings, but sensitive information contained
+# in these scripts will be unencrypted
+PublishScripts/
+
+# NuGet Packages
+*.nupkg
+# The packages folder can be ignored because of Package Restore
+**/packages/*
+# except build/, which is used as an MSBuild target.
+!**/packages/build/
+# Uncomment if necessary however generally it will be regenerated when needed
+#!**/packages/repositories.config
+# NuGet v3's project.json files produces more ignoreable files
+*.nuget.props
+*.nuget.targets
+
+# Microsoft Azure Build Output
+csx/
+*.build.csdef
+
+# Microsoft Azure Emulator
+ecf/
+rcf/
+
+# Windows Store app package directories and files
+AppPackages/
+BundleArtifacts/
+Package.StoreAssociation.xml
+_pkginfo.txt
+
+# Visual Studio cache files
+# files ending in .cache can be ignored
+*.[Cc]ache
+# but keep track of directories ending in .cache
+!*.[Cc]ache/
+
+# Others
+ClientBin/
+~$*
+*~
+*.dbmdl
+*.dbproj.schemaview
+*.jfm
+*.pfx
+*.publishsettings
+node_modules/
+orleans.codegen.cs
+
+# Since there are multiple workflows, uncomment next line to ignore bower_components
+# (https://github.com/github/gitignore/pull/1529#issuecomment-104372622)
+#bower_components/
+
+# RIA/Silverlight projects
+Generated_Code/
+
+# Backup & report files from converting an old project file
+# to a newer Visual Studio version. Backup files are not needed,
+# because we have git ;-)
+_UpgradeReport_Files/
+Backup*/
+UpgradeLog*.XML
+UpgradeLog*.htm
+
+# SQL Server files
+*.mdf
+*.ldf
+
+# Business Intelligence projects
+*.rdl.data
+*.bim.layout
+*.bim_*.settings
+
+# Microsoft Fakes
+FakesAssemblies/
+
+# GhostDoc plugin setting file
+*.GhostDoc.xml
+
+# Node.js Tools for Visual Studio
+.ntvs_analysis.dat
+
+# Visual Studio 6 build log
+*.plg
+
+# Visual Studio 6 workspace options file
+*.opt
+
+# Visual Studio LightSwitch build output
+**/*.HTMLClient/GeneratedArtifacts
+**/*.DesktopClient/GeneratedArtifacts
+**/*.DesktopClient/ModelManifest.xml
+**/*.Server/GeneratedArtifacts
+**/*.Server/ModelManifest.xml
+_Pvt_Extensions
+
+# Paket dependency manager
+.paket/paket.exe
+paket-files/
+
+# FAKE - F# Make
+.fake/
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# CodeRush
+.cr/
+
+# Python Tools for Visual Studio (PTVS)
+__pycache__/
+*.pyc
 slnProject1/prjProject1/prjProject1.csproj
-slnProject1/prjProject1/prjProject1.csproj.user
-slnProject1/prjProject1/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
