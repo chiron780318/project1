@@ -1,4 +1,5 @@
-﻿using System;
+﻿using prjProject1.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -8,10 +9,12 @@ namespace prjProject1.Controllers
 {
     public class CustomersController : Controller
     {
+        NorthwindEntities1 db = new NorthwindEntities1();
         // GET: Customers
         public ActionResult Index()
         {
-            return View();
+            List<Customers> result = db.Customers.Select(c => c).ToList();
+            return View(result);
         }
     }
 }
