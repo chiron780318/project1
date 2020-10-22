@@ -32,6 +32,24 @@ namespace prjProject1.Controllers
 
             return RedirectToAction("Index");
         }
+        public ActionResult Edit(string CustomerID)
+        {
+            Customers customers = db.Customers.Where(c => c.CustomerID == CustomerID).FirstOrDefault();
+            ViewBag.CustomerID = CustomerID;
+            return View(customers);
+        }
+        [HttpPost]
+        public ActionResult Edit(string CustomerID, string CompanyName, string ContactName)
+        {
+
+            Customers customers = db.Customers.Where(c => c.CustomerID == CustomerID).FirstOrDefault();
+            customers.CustomerID = CustomerID;
+            customers.CompanyName = CompanyName;
+            customers.ContactName = ContactName;
+            db.Customers.Add(customers);
+
+            return RedirectToAction("Index");
+        }
 
     }
 }
