@@ -13,8 +13,25 @@ namespace prjProject1.Controllers
         // GET: Customers
         public ActionResult Index()
         {
-            List<Customers> result = db.Customers.Select(c => c).ToList();
-            return View(result);
+            List<Customers> list = db.Customers.Select(c => c).ToList();
+            return View(list);
         }
+        public ActionResult Create()
+        {
+            return View();
+        }
+        [HttpPost]
+        public ActionResult Create(string CustomerID,string CompanyName, string ContactName)
+        {
+            Customers customers = new Customers();
+            customers.CustomerID = CustomerID;
+            customers.CompanyName = CompanyName;
+            customers.ContactName = ContactName;
+            db.Customers.Add(customers);
+            db.SaveChanges();
+
+            return RedirectToAction("Index");
+        }
+
     }
 }
